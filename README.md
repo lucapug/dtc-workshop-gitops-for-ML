@@ -18,6 +18,8 @@ _Note: due to the limited size of the dataset, the evaluation dataset is the
 same data set as the train+test. Take the results of the model with a grain of
 salt._
 
+solution from the webinar: https://github.com/RCdeWit/dtc-workshop/tree/solution
+
 ### Requirements
 
 - [Python >= 3.9.13](https://www.python.org/downloads/)
